@@ -10,11 +10,6 @@
 2. [Tech Stack](#tech-stack)  
 3. [Workflow](#workflow)  
 4. [Setup & Installation](#setup--installation)  
-5. [Usage](#usage)  
-6. [Configuration](#configuration)  
-7. [Contributing](#contributing)  
-8. [License](#license)  
-9. [Authors & Acknowledgements](#authors--acknowledgements)
 
 ---
 
